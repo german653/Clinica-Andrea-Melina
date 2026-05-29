@@ -1,0 +1,6 @@
+{
+  "name": "Programa de Transformación Integral",
+  "description": "Plataforma premium para el programa metabólico de obesidad, nutrición y transformación integral de Andrea Piñeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
